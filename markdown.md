@@ -63,10 +63,10 @@ x+y=z bla, bla, bla ...
 
 To jest szkoleniowy tekst. Wiem, że mam ograniczenia, ale dam z siebie wszystko.
 
-|Heading text | Definition text| 
-|------------|----------------|
-|Item A      |Definintion of A|
-|Item B      |Definition of B |
+| Heading text | Definition text  |
+| ------------ | ---------------- |
+| Item A       | Definintion of A |
+| Item B       | Definition of B  |
 
 To jest szkoleniowy tekst. Wiem, że mam ograniczenia, ale dam z siebie wszystko.
 
