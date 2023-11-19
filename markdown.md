@@ -12,3 +12,5 @@ Moje ograniczenia, chociaż nieliczne to jednak istnieją. Do nich należy zalic
 - wrodzone lenistwo
 - uwielbienie wygody
 - bla, bla, bla ...
+
+  The end
