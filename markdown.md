@@ -46,3 +46,39 @@ x+y=z bla, bla, bla ...
 
 ![Alt text](mostek-1.jpg)
 
+## Listy numerowane
+
+1. Section one
+2. Section two
+3. Section three 
+
+- I
+- you
+- he/she/it
+- we
+- you 
+- they 
+
+## Tabele
+
+To jest szkoleniowy tekst. Wiem, że mam ograniczenia, ale dam z siebie wszystko.
+
+|Heading text | Definition text| 
+|------------|----------------|
+|Item A      |Definintion of A|
+|Item B      |Definition of B |
+
+To jest szkoleniowy tekst. Wiem, że mam ograniczenia, ale dam z siebie wszystko.
+
+## Spis treści
+
+- [Tytuł](#tytuł)
+  - [Punkt 1 - Ograniczenia](#punkt-1---ograniczenia)
+    - [Punkt 1.1 - Ograniczenie nr 1](#punkt-11---ograniczenie-nr-1)
+  - [Wyróżnianie](#wyróżnianie)
+  - [Odsyłacze](#odsyłacze)
+  - [Obrazki](#obrazki)
+  - [Listy numerowane](#listy-numerowane)
+  - [Tabele](#tabele)
+  - [Spis treści](#spis-treści)
+   
