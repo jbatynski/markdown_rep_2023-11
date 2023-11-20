@@ -2,6 +2,12 @@
 
 **POLAR BEAR PLUNGE - BENEFITS & RISKS OF WINTER BATHING**
 
+- [Introduction](#introduction)
+- [Backgroung](#backgroung)
+- [Benefits](#benefits)
+- [Risks](#risks)
+
+
 ## Introduction
 A polar bear plunge is an activity where people immerse themselves in very cold water, usually in the winter, for fun or charity. Some people believe that this practice has health benefits, such as boosting the immune system and improving cardiovascular health. However, there is no solid evidence to support these claims, and doctors warn that polar bear plunges can be dangerous for people with underlying health issues.
 
