@@ -1,11 +1,11 @@
-# This is my page
+# Polar Bear Plunge - Benefits & Risks
 This is my page that demonstrates Markdown features on polar bear plunge considerations.
 
 ![**Alt text**](IMG_0444.JPG) *Source: Image generated using AI-based Bing Co-pilot*  
 
 **POLAR BEAR PLUNGE - BENEFITS & RISKS OF WINTER BATHING**
 
-- [This is my page](#this-is-my-page)
+- [Polar Bear Plunge - Benefits \& Risks](#polar-bear-plunge---benefits--risks)
   - [Introduction](#introduction)
   - [Backgroung](#backgroung)
   - [Benefits](#benefits)
@@ -77,17 +77,17 @@ Having said that, I have to say, polar bear plunges played out for me just fine.
 *Source: Personal Album*
 
 *Source*: Conversation with Bing, 11/20/2023  
-1) Warning! Cold water baths in winter can be fatal; can cause stroke https://www.timesnownews.com/health/ warning-cold-water-baths-in-winter-can-be-fatal-can-cause-stroke-heart-attack-article-95593051.  
-2) Is cold water swimming in the winter healthy? - Sciencenorway. https://sciencenorway.no/cardiology-mental-health/is-cold-water-swimming-in-the-winter-healthy/1817717.  
-3) Cold water therapy: what are the benefits and dangers of ice baths. https://theconversation.com/cold-water-therapy-what-are-the-benefits-and-dangers-of-ice-baths-wild-swimming-and-freezing-showers-203452.  
-4) Getty Images. https://www.gettyimages.com/detail/news-photo/swimmer-climbs-from-a-snow-covered-jetty-into-the-ice-cold-news-photo/890896406.  
-5) Winter bathing - What The Denmark. https://www.whatthedenmark.com/blog-post/winter-bathing.  
-6) Is cold water swimming in the winter healthy? - Sciencenorway. https://sciencenorway.no/cardiology-mental-health/is-cold-water-swimming-in-the-winter-healthy/1817717.  
-7) 11 Benefits of Ice Baths and Cold Plunging - Michael Kummer. https://michaelkummer.com/health/ice-bath-benefits/.  
-8) Cold Water Therapy: Benefits of Cold Showers, Baths - Healthline. https://www.healthline.com/health/cold-water-therapy.  
-9) en.wikipedia.org. https://en.wikipedia.org/wiki/Ice_bath.  
-10) Polar bear plunge - Wikipedia. https://en.wikipedia.org/wiki/Polar_bear_plunge.  
-11) POLAR BEAR PLUNGE DAY - January 1, 2024 - National Today. https://nationaltoday.com/polar-bear-plunge-day/.  
-12) The Polar Bear Plunge: What Is It and How To Do It - Funboy. https://www.funboy.com/blogs/funboy-life/polar-bear-plunge.  
-13) Who started the Polar Bear dip every Jan. 1, anyway? | CBC. https://www.cbc.ca/archives/who-started-the-polar-bear-dip-every-jan-1-anyway-1.5390585.  
-14) en.wikipedia.org. https://en.wikipedia.org/wiki/Polar_bear_plunge.  
+- Warning! Cold water baths in winter can be fatal; can cause stroke https://www.timesnownews.com/health/ warning-cold-water-baths-in-winter-can-be-fatal-can-cause-stroke-heart-attack-article-95593051.  
+- Is cold water swimming in the winter healthy? - Sciencenorway. https://sciencenorway.no/cardiology-mental-health/is-cold-water-swimming-in-the-winter-healthy/1817717.  
+- Cold water therapy: what are the benefits and dangers of ice baths. https://theconversation.com/cold-water-therapy-what-are-the-benefits-and-dangers-of-ice-baths-wild-swimming-and-freezing-showers-203452.  
+- Getty Images. https://www.gettyimages.com/detail/news-photo/swimmer-climbs-from-a-snow-covered-jetty-into-the-ice-cold-news-photo/890896406.  
+- Winter bathing - What The Denmark. https://www.whatthedenmark.com/blog-post/winter-bathing.  
+- Is cold water swimming in the winter healthy? - Sciencenorway. https://sciencenorway.no/cardiology-mental-health/is-cold-water-swimming-in-the-winter-healthy/1817717.  
+- 11 Benefits of Ice Baths and Cold Plunging - Michael Kummer. https://michaelkummer.com/health/ice-bath-benefits/.  
+- Cold Water Therapy: Benefits of Cold Showers, Baths - Healthline. https://www.healthline.com/health/cold-water-therapy.  
+- en.wikipedia.org. https://en.wikipedia.org/wiki/Ice_bath.  
+- Polar bear plunge - Wikipedia. https://en.wikipedia.org/wiki/Polar_bear_plunge.  
+- POLAR BEAR PLUNGE DAY - January 1, 2024 - National Today. https://nationaltoday.com/polar-bear-plunge-day/.  
+- The Polar Bear Plunge: What Is It and How To Do It - Funboy. https://www.funboy.com/blogs/funboy-life/polar-bear-plunge.  
+- Who started the Polar Bear dip every Jan. 1, anyway? | CBC. https://www.cbc.ca/archives/who-started-the-polar-bear-dip-every-jan-1-anyway-1.5390585.  
+- en.wikipedia.org. https://en.wikipedia.org/wiki/Polar_bear_plunge.  
