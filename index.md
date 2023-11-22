@@ -1,11 +1,15 @@
+# This is my page
+This is my page that demonstrates Markdown features on polar bear plunge considerations.
+
 ![**Alt text**](IMG_0444.JPG) *Source: Image generated using AI-based Bing Co-pilot*  
 
 **POLAR BEAR PLUNGE - BENEFITS & RISKS OF WINTER BATHING**
 
-- [Introduction](#introduction)
-- [Backgroung](#backgroung)
-- [Benefits](#benefits)
-- [Risks](#risks)
+- [This is my page](#this-is-my-page)
+  - [Introduction](#introduction)
+  - [Backgroung](#backgroung)
+  - [Benefits](#benefits)
+  - [Risks](#risks)
 
 
 ## Introduction
