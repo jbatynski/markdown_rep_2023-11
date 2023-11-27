@@ -1,15 +1,15 @@
-# Polar Bear Plunge - Benefits & Risks
+# Polar Bear Plunge - Benefits & Risks <!-- omit in toc -->
 This is my page that demonstrates Markdown features on polar bear plunge considerations.
 
 ![**Alt text**](IMG_0444.JPG) *Source: Image generated using AI-based Bing Co-pilot*  
 
 **POLAR BEAR PLUNGE - BENEFITS & RISKS OF WINTER BATHING**
 
-- [Polar Bear Plunge - Benefits \& Risks](#polar-bear-plunge---benefits--risks)
-  - [Introduction](#introduction)
-  - [Backgroung](#backgroung)
-  - [Benefits](#benefits)
-  - [Risks](#risks)
+- [Introduction](#introduction)
+- [Backgroung](#backgroung)
+- [Benefits](#benefits)
+- [Risks](#risks)
+- [References](#references)
 
 
 ## Introduction
@@ -76,6 +76,7 @@ Having said that, I have to say, polar bear plunges played out for me just fine.
 ![Alt text](11810456-b655-44b2-8b6b-bb399095d78d.JPG)  
 *Source: Personal Album*
 
+## References
 *Source*: Conversation with Bing, 11/20/2023  
 - Warning! Cold water baths in winter can be fatal; can cause stroke https://www.timesnownews.com/health/ warning-cold-water-baths-in-winter-can-be-fatal-can-cause-stroke-heart-attack-article-95593051.  
 - Is cold water swimming in the winter healthy? - Sciencenorway. https://sciencenorway.no/cardiology-mental-health/is-cold-water-swimming-in-the-winter-healthy/1817717.  
